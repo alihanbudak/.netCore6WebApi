@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NLayer.Core": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
